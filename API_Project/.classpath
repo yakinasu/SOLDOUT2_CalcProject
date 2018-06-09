@@ -11,7 +11,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Applications/Eclipse_4.7.1.app/Contents/tomcat/6/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Applications/Eclipse_4.7.0.app/Contents/tomcat/8/lib/servlet-api.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>

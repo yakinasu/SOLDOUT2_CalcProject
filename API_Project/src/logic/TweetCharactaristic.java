@@ -16,10 +16,10 @@ public class TweetCharactaristic {
 		//TODO: 本当はプロパティファイルにもたせたい
 		ConfigurationBuilder cb = new ConfigurationBuilder();
 		cb.setDebugEnabled(true)
-				.setOAuthConsumerKey("IVvuy8yZeqzcNm0WVcgCbasjs")
-				.setOAuthConsumerSecret("ZwxUYvuvrYB3mCANtQ9h8jYGE4dVLbfSh6vGyRMa68Eb8vTufE")
-				.setOAuthAccessToken("2439108144-8JWpbgdoktf8Y1QPXi1mz7iLmZuOqH5zHgcAcRt")
-				.setOAuthAccessTokenSecret("yOAkLt9UOCkRF5LonxtOe8yipiN1JMzYhA2HLUWQhRCtG");
+				.setOAuthConsumerKey("XXX")
+				.setOAuthConsumerSecret("XXXX")
+				.setOAuthAccessToken("XXX")
+				.setOAuthAccessTokenSecret("XXXXX");
 		TwitterFactory tf = new TwitterFactory(cb.build());
 		Twitter twitter = tf.getInstance();
 
